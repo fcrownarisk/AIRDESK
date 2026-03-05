@@ -31,7 +31,7 @@ My own path integral->
     8=>> Black-Body Radiation Problem (solved by Max Plank)
     9=>> Eigen-State Activated-State Bloch-Sphere Hibert-Space Hilbert-Curve
 
-    10-> three basic principle:1+1=2 tensor color
+    10-> three basic principle:prime number 1+1=2  xyznnn-tensor four-color
     11-> 7 Problem(advanced math) 
 
     generate one pure Visual Basic .net file contains the following 11 Dimension on purpose of      building a multi-touch AIRDESK in bare vacuum inside a Crafting Sand-Box Game until DeepSeek reach the limit of 1 million tokens
