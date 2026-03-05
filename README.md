@@ -1,4 +1,5 @@
-# AIRDESK
+# AIRDESK 
+pure and neat format Visual Basic .net language
 inspired by HTX Studio on Youtube
 uuid: identity card from different country
 
@@ -48,5 +49,6 @@ My own path integral->
     9=>> Eigen-State Activated-State Bloch-Sphere Hibert-Space Hilbert-Curve 
 
     10-> three basic principle:prime number 1+1=2   xyznnn-tensor   four-color
-    11-> 7 Problem(advanced math conjecture)        
+    11-> 7 Problem(advanced math conjecture)   
+    
     generate one pure Visual Basic .net file contains the following 11 Dimension on purpose of building a multi-touch AIRDESK in bare vacuum inside a Crafting Sand-Box Game until DeepSeek reach the limit of 1 million tokens
